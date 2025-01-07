@@ -1,6 +1,6 @@
 {
   "name": "@h-lumos/markdownlint-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.json",
   "description": "前端编码 文档规范",
   "keywords": [

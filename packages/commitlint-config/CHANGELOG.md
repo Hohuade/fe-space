@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.2 (2025-01-07)
+
+
+### Bug Fixes
+
+*  触发构建13 ([c7a680f](https://github.com/encode-studio-fe/fe-spec/commit/c7a680f576d27eb6b2eb704a4185edf0122c7cc7))
+
+
+
+
+
 ## 1.1.1 (2025-01-07)
 
 **Note:** Version bump only for package @h-lumos/commitlint-validator
