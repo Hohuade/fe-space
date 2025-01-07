@@ -1,0 +1,17 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.1.0 (2025-01-07)
+
+
+### Bug Fixes
+
+*  触发构建6 ([0933830](https://github.com/encode-studio-fe/fe-spec/commit/093383028584f81214b7404500d880ebb67e9a3e))
+* 新增一句打印触发构建 ([dc1ec24](https://github.com/encode-studio-fe/fe-spec/commit/dc1ec240b6119f88d31f10dacbd4f5bc3560f3f1))
+
+
+### Features
+
+* 新增master ([4d72a38](https://github.com/encode-studio-fe/fe-spec/commit/4d72a3861e4e7bd7a76ed375d4e0b6944833ae65))
