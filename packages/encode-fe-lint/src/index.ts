@@ -32,5 +32,3 @@ export const scan = async (options: ScanOptions) => {
 
   return report;
 };
-//新增一句打印触发构建
-console.log('触发构建');
