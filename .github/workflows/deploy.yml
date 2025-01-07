@@ -20,7 +20,14 @@ jobs:
           npm i -g pnpm
           pnpm run init
           pnpm run docs:build
-          pnpm run publish --yes
+          lerna publish --yes
+        env:
+          NODE_OPTIONS: '--max_old_space_size=4096'
+
+      - name: publish to npm
+        run: |
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
+          HUSKY_SKIP_HOOKS=1 lerna publish --yes
         env:
           NODE_OPTIONS: '--max_old_space_size=4096'
 
