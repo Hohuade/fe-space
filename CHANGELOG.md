@@ -3,8 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [](https://github.com/encode-studio-fe/fe-spec/compare/v0.0.6...v) (2023-06-11)
-
 ### Features
 
 - 更新 README.md ([73edb72](https://github.com/encode-studio-fe/fe-spec/commit/73edb7229db8e918d2045817a3e9a7e34feb3d3d))
