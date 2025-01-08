@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.6](https://github.com/Hohuade/fe-space/compare/v1.1.5...v1.1.6) (2025-01-08)
+
+
+### Bug Fixes
+
+* 触发构建 ([a25fbf1](https://github.com/Hohuade/fe-space/commit/a25fbf102dbe53b21d706fbac0997ba4203f7cae))
+
+
+
+
+
 ## 1.1.5 (2025-01-08)
 
 
