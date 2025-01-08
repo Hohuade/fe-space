@@ -8,6 +8,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
+* 触发构建 ([adca95d](https://github.com/encode-studio-fe/fe-spec/commit/adca95d4a73ecc7dcb4b84b9cfadd0f9d50c4380))
+* 触发构建 ([a25fbf1](https://github.com/encode-studio-fe/fe-spec/commit/a25fbf102dbe53b21d706fbac0997ba4203f7cae))
+
+
+
+
+
+## [1.1.6](https://github.com/encode-studio-fe/fe-spec/compare/v1.1.5...v1.1.6) (2025-01-08)
+
+
+### Bug Fixes
+
 * 触发构建 ([a25fbf1](https://github.com/encode-studio-fe/fe-spec/commit/a25fbf102dbe53b21d706fbac0997ba4203f7cae))
 
 
