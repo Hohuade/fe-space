@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.3 (2025-01-08)
+
+
+### Bug Fixes
+
+*  触发构建13 ([4a10b16](https://github.com/encode-studio-fe/fe-spec/commit/4a10b163c4d0bf1a756daa8991b92a803507da03))
+
+
+
+
+
 ## 1.1.2 (2025-01-07)
 
 
