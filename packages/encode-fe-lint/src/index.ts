@@ -13,7 +13,7 @@ export const init = async (options: IInitOptions) => {
     checkVersionUpdate: false,
   });
 };
-
+// 扫描代码
 export const scan = async (options: ScanOptions) => {
   const checking = ora();
   checking.start(`执行 ${PKG_NAME} 代码检查`);
