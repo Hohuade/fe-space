@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.1 (2025-01-08)
+
+**Note:** Version bump only for package lumos-encode-spec
+
+
+
+
+
 # [0.1.0](https://github.com/Hohuade/fe-space/compare/v1.1.6...v0.1.0) (2025-01-08)
 
 ### Features
