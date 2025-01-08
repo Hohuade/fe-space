@@ -5,26 +5,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 1.1.2 (2025-01-07)
 
+### Bug Fixes
 
 ### Bug Fixes
 
-*  触发构建13 ([c7a680f](https://github.com/encode-studio-fe/fe-spec/commit/c7a680f576d27eb6b2eb704a4185edf0122c7cc7))
+- 触发构建 12 ([c7a680f](URL_ADDRESS\* 触发构建 12 ([c7a680f](https://github.com/encode-studio-fe/fe-spec/commit/c7a680f576d27eb6b2eb704a4185edf0122c7cc7))
 
+### Bug Fixes
 
-
-
+- 触发构建 13 ([c7a680f](https://github.com/encode-studio-fe/fe-spec/commit/c7a680f576d27eb6b2eb704a4185edf0122c7cc7))
 
 ## 1.1.1 (2025-01-07)
 
 **Note:** Version bump only for package @h-lumos/eslint-config
 
-
-
-
-
 # 1.1.0 (2025-01-07)
-
 
 ### Features
 
-* 新增master ([4d72a38](https://github.com/encode-studio-fe/fe-spec/commit/4d72a3861e4e7bd7a76ed375d4e0b6944833ae65))
+- 新增 master ([4d72a38](https://github.com/encode-studio-fe/fe-spec/commit/4d72a3861e4e7bd7a76ed375d4e0b6944833ae65))
