@@ -1,6 +1,9 @@
 {
   "name": "@h-lumos/markdownlint-config",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.json",
   "description": "前端编码 文档规范",
   "keywords": [

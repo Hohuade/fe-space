@@ -1,6 +1,9 @@
 {
   "name": "@h-lumos/eslint-config",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "description": "前端编码 JavaScript TypeScript Node 规范",
   "keywords": [

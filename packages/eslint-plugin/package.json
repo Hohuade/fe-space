@@ -1,7 +1,10 @@
 {
   "name": "@h-lumos/eslint-plugin",
   "version": "0.0.1",
-  "description": "印客教育自定义eslint插件",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "自定义eslint插件",
   "scripts": {
     "test": "jest",
     "prepublishOnly": "npm run test"
