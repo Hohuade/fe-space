@@ -99,7 +99,7 @@ export interface IGetLintConfig {
 
   (options: ScanOptions, pkg: PKG, config: Config): markdownlint.Options;
 }
-
+// 格式化结果
 export interface IFormatResults {
   (results: ESLint.LintResult[], quiet: boolean): ScanResult[];
   (results: stylelint.LintResult[], quiet: boolean): ScanResult[];
